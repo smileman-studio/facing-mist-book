@@ -1,0 +1,25 @@
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Obsidian internal trash
+.trash/
+
+# Obsidian UI state (главный источник конфликтов)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# Obsidian cache & graph
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/copilot-index*.json
+
+# KodaCode / локальные артефакты (на будущее)
+*.log
+__pycache__/
+.env
+
+Backups
