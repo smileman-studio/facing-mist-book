@@ -1,3 +1,8 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "dim-text"
+  ]
 }
